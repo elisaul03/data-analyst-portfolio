@@ -1,7 +1,7 @@
 # 📊 Portafolio de Análisis de Datos - Data Analyst Portfolio
 
 ## 👨‍💻 Sobre Mí / About Me
-Analista de datos apasionado por transformar datos en insights accionables. Especializado en Python, SQL, Power BI y herramientas de visualización de datos.
+Analista de datos e Ingeniero de Software graduado en UAPA, apasionado por transformar datos en insights accionables. Especializado en Python, SQL, Power BI y herramientas de visualización de datos.
 
 ## 🚀 Proyectos de Análisis de Datos / Data Analysis Projects
 
@@ -103,9 +103,11 @@ DataAnalystPortfolio/
 ```
 
 ## 📞 Contacto / Contact
-- **Email:** tu-email@ejemplo.com
-- **LinkedIn:** linkedin.com/in/tu-perfil
-- **GitHub:** github.com/tu-usuario
+- **Email:** elisaul03@gmail.com
+- **LinkedIn:** [linkedin.com/in/selcioelisaulguzman](https://linkedin.com/in/selcioelisaulguzman) (Selcio Elisaul Guzman)
+- **GitHub:** [github.com/elisaul03](https://github.com/elisaul03)
+- **Teléfonos:** 829-984-1989 | 809-431-0389
+- **Ubicación:** Santiago, República Dominicana
 
 ---
 *Portafolio creado con ❤️ para demostrar habilidades en análisis de datos* 

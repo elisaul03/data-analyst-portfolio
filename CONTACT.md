@@ -123,21 +123,17 @@
 
 ### 📧 Email
 - **Personal:** elisaul03@gmail.com
-- **Profesional:** elisaul.guzman@dataanalyst.com
 
 ### 🔗 Redes Profesionales
-- **LinkedIn:** [linkedin.com/in/elisaul-guzman](https://linkedin.com/in/elisaul-guzman)
-- **GitHub:** [github.com/elisaul-guzman](https://github.com/elisaul-guzman)
-- **Portfolio:** [dataanalyst-portfolio.com](https://dataanalyst-portfolio.com)
+- **LinkedIn:** [linkedin.com/in/selcioelisaulguzman](https://linkedin.com/in/selcioelisaulguzman) (Selcio Elisaul Guzman)
+- **GitHub:** [github.com/elisaul03](https://github.com/elisaul03)
 
 ### 📱 Contacto Directo
-- **WhatsApp:** +1 (555) 123-4567
-- **Teléfono:** +1 (555) 987-6543
+- **Teléfonos:** 829-984-1989 | 809-431-0389
 
 ### 📍 Ubicación
-- **Ciudad:** [Tu Ciudad]
-- **País:** [Tu País]
-- **Disponibilidad:** Remoto / Híbrido / Presencial
+- **Ciudad:** Santiago
+- **País:** República Dominicana
 
 ---
 
@@ -223,7 +219,7 @@
 
 ### 📚 Educación
 - **Maestría en Data Science** - [Universidad]
-- **Ingeniería en Sistemas** - [Universidad]
+- **Ingeniero de Software** - UAPA
 - **Certificación en Business Analytics** - [Institución]
 
 ### 🏅 Certificaciones
@@ -269,22 +265,5 @@
 
 **¡Estoy aquí para ayudarte a transformar tus datos en ventajas competitivas!**
 
-### 📧 Contacto Rápido
-```
-Email: elisaul03@gmail.com
-LinkedIn: linkedin.com/in/elisaul-guzman
-GitHub: github.com/elisaul-guzman
-```
-
-### 🚀 Próximos Pasos
-1. **Agenda una llamada** para discutir tu proyecto
-2. **Comparte tus objetivos** y métricas clave
-3. **Recibe una propuesta** personalizada
-4. **Comienza a generar valor** con datos
-
 ---
-
-*"Los datos son el nuevo petróleo, pero solo si sabes cómo refinarlos"* 🎯
-
----
-*Última actualización: Enero 2025* 
+*Última actualización: Julio 2025* 
